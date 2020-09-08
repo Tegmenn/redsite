@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.r3dteam.net	TRUE	/	FALSE	1999999999	__cfduid	d33ae9e00801bb08cc429c90f9ae61db41599547290
+www.r3dteam.net	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.r3dteam.net	TRUE	/	FALSE	1999999999	PHPSESSID	a6e7cdfae0de5b9da3cac2a7d6135ed5
+
